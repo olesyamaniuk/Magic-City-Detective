@@ -29,7 +29,7 @@ function toggleAnswer(element) {
     buttonImg.src = "/img/faq/arrow.png"; 
   } else {
     answer.style.display = "none";
-    buttonImg.src = "/img/faq/icon.png"; 
+    buttonImg.src = "/image/faq/icon.png"; 
   }
 }
 
